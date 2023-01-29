@@ -2,5 +2,5 @@
 .DS_Status
 .idea
 #folfers
-node_modules/
 .vscode/
+node_modules/

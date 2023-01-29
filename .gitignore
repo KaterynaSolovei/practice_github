@@ -1,0 +1,5 @@
+#files
+.DS_Status
+.idea
+#folfers
+node_modules/

@@ -1,6 +1,6 @@
 #files
 .DS_Status
-.idea
 #folfers
-.vscode/
 node_modules/
+.idea
+.vscode/
